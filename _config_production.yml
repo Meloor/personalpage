@@ -33,10 +33,14 @@ language: zh-cn
 
 # Navigation links
 nav:
-  home: '/'
-  blog: '/blog/index.html'
-  archives: '/archives.html'
-  tags: '/tags.html'
+  # home: '/'
+  # blog: '/blog/index.html'
+  # archives: '/archives.html'
+  # tags: '/tags.html'
+  home: '/personalpage/'
+  blog: '/personalpage/blog/index.html'
+  archives: '/personalpage/archives.html'
+  tags: '/personalpage/tags.html'
   about:   
     logs: '/logs.html'
     tos: '/tos.html'
